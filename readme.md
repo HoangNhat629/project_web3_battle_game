@@ -20,3 +20,6 @@
 11. Deploy the smart contract on the Fuji test network by running the `npx hardhat run scripts/deploy.ts --network fuji` command
   Move the `/artifacts/contracts/AVAXGods.json` file to the `/contract` folder on the frontend
   Copy the address of the deployed contract from the terminal and paste it into the `/contract/index.js` file of the frontend application
+
+## Link 
+https://www.youtube.com/watch?v=C9ctoK4M9Bk&t=7149s
